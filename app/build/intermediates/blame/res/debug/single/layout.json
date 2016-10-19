@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\New Folder (3)\\New folder\\FragmentTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmentlayout2.xml",
+        "source": "D:\\New Folder (3)\\New folder\\FragmentTest2\\app\\src\\main\\res\\layout\\fragmentlayout2.xml"
+    },
+    {
+        "merged": "D:\\New Folder (3)\\New folder\\FragmentTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\New Folder (3)\\New folder\\FragmentTest2\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\New Folder (3)\\New folder\\FragmentTest2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmentlayout.xml",
+        "source": "D:\\New Folder (3)\\New folder\\FragmentTest2\\app\\src\\main\\res\\layout\\fragmentlayout.xml"
+    }
+]

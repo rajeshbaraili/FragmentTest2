@@ -1,0 +1,7 @@
+#Wed Oct 19 16:16:13 EDT 2016
+base.0=D\:\\New Folder (3)\\New folder\\FragmentTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1920261d901e502878e965c23f532a935a39195f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\New Folder (3)\\New folder\\FragmentTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_15e8cf7f1e6dbec6ce957b0f3700a90c77114327\\classes.dex
+base.1=D\:\\New Folder (3)\\New folder\\FragmentTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_15e8cf7f1e6dbec6ce957b0f3700a90c77114327
+file.0=D\:\\New Folder (3)\\New folder\\FragmentTest2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1920261d901e502878e965c23f532a935a39195f\\classes.dex
